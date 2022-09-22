@@ -1,0 +1,19 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+# From seeds...
+# a1 = Astronaut.create!(name: "Obi Juan", position: "Jedi")
+# a2 = Astronaut.create!(name: "Phil Roth", position: "Captain")
+
+obi:
+  name: Obi Juan
+  position: Jedi
+
+two:
+  name: Phil Roth
+  position: Captain
+
+# ! BAD DATA
+
+bad_one:
+  name: 
+  position: 

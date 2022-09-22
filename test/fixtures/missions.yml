@@ -1,0 +1,19 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  astronaut: obi
+  planet: one
+  title: MyString
+  priority: 1
+
+two:
+  astronaut: obi
+  planet: two
+  title: good
+  priority: 2
+
+three:
+  astronaut: obi
+  planet: two
+  title: gooder
+  priority: 5

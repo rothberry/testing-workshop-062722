@@ -1,0 +1,13 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+# p1 = Planet.create!(name: "Cygnus-2", solar_system: "Alpha Centauri")
+# p2 = Planet.create!(name: "Omega-Parci-I-8", solar_system: "Omega Quadrant")
+
+
+one:
+  name: Cygnus-2
+  solar_system: Alpha Centauri
+
+two:
+  name: Omega-Parci-I-8
+  solar_system: Omega Quadrant
